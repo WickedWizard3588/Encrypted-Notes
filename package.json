@@ -1,0 +1,30 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "A Notes app for all your day-to-day activities",
+  "main": "src/app.js",
+  "scripts": {},
+  "author": {
+    "email": "chiranthan568@gmail.com",
+    "name": "Chiranthan Bharadwaj R"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mongoose": "^5.12.2",
+    "eslint": "^7.22.0"
+  },
+  "engines": {
+    "npm": ">=6.0.0",
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WickedWizard3588/Encrypted-Notes.git"
+  }
+}
