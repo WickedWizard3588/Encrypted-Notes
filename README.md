@@ -16,6 +16,8 @@
 
 > A Notes app for all your day-to-day activities
 
+> Warning: WIP (Should NOT be used unless for PRs. Issues will be ignored as it is in early dev stage)
+
 ### 🏠 [Homepage](https://github.com/WickedWizard3588/Encrypted-Notes)
 
 ## Prerequisites
